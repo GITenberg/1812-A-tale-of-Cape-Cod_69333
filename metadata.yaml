@@ -1,11 +1,16 @@
 _repo: 1812-A-tale-of-Cape-Cod_69333
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 69333-h/images/cover.jpg
 creator:
   author:
     agent_name: Fitzgerald, Michael
     gutenberg_agent_id: '55216'
     url: http://www.gutenberg.org/2009/agents/55216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69333#1812-A-tale-of-Cape-Cod
 gutenberg_issued: '2022-11-12'
 identifiers:
   gutenberg: '69333'
